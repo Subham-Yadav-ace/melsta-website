@@ -42,6 +42,5 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 └── types/              # TypeScript definitions
 ```
 
----
 
-Built by **Subham Yadav**
+
